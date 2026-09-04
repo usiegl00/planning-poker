@@ -1,4 +1,4 @@
-:repo:deb [trusted=yes] https://ppa.launchpadcontent.net/longsleep/golang-backports/ubuntu noble main
+:repo:deb [trusted=yes] https://ppa.launchpadcontent.net/longsleep/golang-backports/ubuntu jammy main
 
 golang-1.20-go
 golang-1.20-src
